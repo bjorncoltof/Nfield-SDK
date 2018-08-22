@@ -33,3 +33,6 @@ _ReSharper*/
 
 TestResults/
 _NCrunch_Nfield.SDK/Nfield.SDK.crunchsolution.cache
+DocFxBuilder/code_sdk/
+DocFxBuilder/pre-deploy-doc/
+DocFxBuilder/log.txt

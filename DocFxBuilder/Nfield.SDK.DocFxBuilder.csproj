@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net462</TargetFramework>
+    <Authors>NIPO</Authors>
+    <Company>NIPO</Company>
+    <Copyright>Copyright © NIPO 2017</Copyright>
+    <DefaultItemExcludes>$(DefaultItemExcludes);code_*/**;log.txt</DefaultItemExcludes>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="docfx.console" Version="2.37.2" />
+  </ItemGroup>
+</Project>
